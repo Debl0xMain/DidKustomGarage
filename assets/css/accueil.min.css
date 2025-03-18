@@ -72,6 +72,12 @@
         height: 300px !important;
         width: 300px !important;
     }
+    .buble_size {
+        display: block;
+    }
+    .acc_buble_img {
+        margin-top:15px;
+    }
 }
 
 /* Contact */
